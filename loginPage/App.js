@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     color: Colors.dark,
   },
   highlight: {
-    fontWeight: '700',
+    fontWeight: '70',
   },
   footer: {
     color: Colors.dark,
