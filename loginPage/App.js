@@ -98,9 +98,7 @@ const styles = StyleSheet.create({
     fontWeight: '400',
     color: Colors.dark,
   },
-  highlight: {
-    fontWeight: '70',
-  },
+
   footer: {
     color: Colors.dark,
     fontSize: 12,
